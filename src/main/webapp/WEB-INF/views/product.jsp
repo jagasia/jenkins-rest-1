@@ -21,7 +21,7 @@
       
     </div>
     <div class="col-sm-4">
-      <h3>Product Page</h3>
+      <h3>Product Page by Gagan..... and Nitin.......and Aditya......Jag</h3>
       <form method="post" action="/product/dml" enctype="multipart/form-data">
       	Id: <input type="number" class="form-control" name="id" />
       	Name: <input type="text" class="form-control" name="name" />
